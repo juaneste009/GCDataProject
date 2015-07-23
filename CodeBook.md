@@ -9,4 +9,4 @@
 * data_melt: data ready make the symmary by subject and activity.
 * tidy_data: summary if the data.
 
-The end.
+The end!
